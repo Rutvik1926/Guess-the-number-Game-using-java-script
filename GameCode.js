@@ -1,4 +1,4 @@
-// Guess the Game code.
+// Guess the Game Main code.
 const prompt = require('prompt-sync')(); 
 
 let n = Math.floor(Math.random() * 100 + 1)
